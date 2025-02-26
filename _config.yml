@@ -8,10 +8,10 @@
 # Site Settings
 title: |
   SHEN Zhijing
-  (沈芷菁)title                    
+  (沈芷菁)                    
 #title                    : "SHEN Zhijing \n (沈芷菁)"
 description              : "PhD in Zhejiang University "
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "shenzhijing1202/shenzhijing1202.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,7 +24,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "SHEN Zhijing \n (沈芷菁)"
+  name: |
+  SHEN Zhijing
+  (沈芷菁) 
+  #name             : "SHEN Zhijing \n (沈芷菁)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD student"
   location         : "HangZhou, China"
