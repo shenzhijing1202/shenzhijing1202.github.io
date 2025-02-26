@@ -6,10 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title: |
-  SHEN Zhijing
-  (沈芷菁)                    
-#title                    : "SHEN Zhijing \n (沈芷菁)"
+                 
+title                    : "SHEN Zhijing   (沈芷菁)"
 description              : "PhD in Zhejiang University "
 repository               : "shenzhijing1202/shenzhijing1202.github.io"
 google_scholar_stats_use_cdn : true
@@ -24,10 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name: |
-  SHEN Zhijing
-  (沈芷菁) 
-  #name             : "SHEN Zhijing \n (沈芷菁)"
+  name             : "SHEN Zhijing   (沈芷菁)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "PhD student"
   location         : "HangZhou, China"
