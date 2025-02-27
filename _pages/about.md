@@ -30,7 +30,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 # 📖 Eduacation
 <table>
   <thead>
-    <tr style="background-color: #e0f7fa;">
+    <tr style="background-color: #f5f5f5;">
       <th><strong>Time Range</strong></th>
       <th><strong>Institution</strong></th>
       <th><strong>Degree/Program</strong></th>
