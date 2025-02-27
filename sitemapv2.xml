@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>mailto:zjshen@zju.edu.cn</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?user=DhtAFkwAAAAJ</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=DhtAFkwAAAAJ&amp;citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://shenzhijing1202.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-02-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
