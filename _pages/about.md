@@ -28,12 +28,37 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 - *Damage theory of steel/CFRP wires*
 
 # 📖 Eduacation
-| Time Range          | Institution                | Degree/Program                          |
-|---------------------|----------------------------|-----------------------------------------|
-| **2024.09 - Now **      | **Zhejiang University **       |** PhD Student  **                           |
-| 2022.09 - 2024.06   | Zhejiang University        | Combined Master and Doctor Degree - Master Student Stage |
-| 2018.09 - 2022.06   | Zhejiang University        | Bachelor of Engineering (BEng)          |
-| 2015.09 - 2018.06   | Tongxiang Senior High School | High School Diploma                     |
+<table>
+  <thead>
+    <tr style="background-color: #e0f7fa;">
+      <th><strong>Time Range</strong></th>
+      <th><strong>Institution</strong></th>
+      <th><strong>Degree/Program</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2024.09 - Now</td>
+      <td>Zhejiang University</td>
+      <td>PhD Student</td>
+    </tr>
+    <tr>
+      <td>2022.09 - 2024.06</td>
+      <td>Zhejiang University</td>
+      <td>Combined Master and Doctor Degree - Master Student Stage</td>
+    </tr>
+    <tr>
+      <td>2018.09 - 2022.06</td>
+      <td>Zhejiang University</td>
+      <td>Bachelor of Engineering (BEng)</td>
+    </tr>
+    <tr>
+      <td>2015.09 - 2018.06</td>
+      <td>Tongxiang Senior High School</td>
+      <td>High School Diploma</td>
+    </tr>
+  </tbody>
+</table>
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
