@@ -21,11 +21,13 @@ redirect_from:
 
 I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring Civil Engineering under the supervisor of [Prof. He ZHANG](https://person.zju.edu.cn/zhanghe).
 
-My research interst includes
+**My research interst includes**
 - *Bridge intelligent operation and maintenance* & Deep learning in Engineering
 - *Fretting wear of Bridge cables*
-- *performance evaluation of Bridge cables* & Peridynamic
-- *damage theory of steel/CFRP wires*
+- *Performance evaluation of Bridge cables* & Peridynamic
+- *Damage theory of steel/CFRP wires*
+
+# 📖 Eduacation
 
 
 # 🔥 News
