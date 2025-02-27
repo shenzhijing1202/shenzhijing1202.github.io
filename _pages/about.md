@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# Hello！This is Zhijing SHEN
+# ✨ Hello！This is Zhijing SHEN
 
 I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring Civil Engineering under the supervisor of [Prof. He ZHANG](https://person.zju.edu.cn/zhanghe).
 
