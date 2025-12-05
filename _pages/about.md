@@ -138,7 +138,108 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </div>
 </div>
 
+<!-- 第一步：先添加CSS样式（放在文件最开头） -->
+<style>
+/* 论文卡片容器：横向布局+阴影 */
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
 
+/* 论文卡片图片区域：固定宽度 */
+.paper-box-image {
+  width: 200px;
+  margin-right: 15px;
+  position: relative;
+}
+
+/* 论文卡片图片：自适应+占位图样式 */
+.paper-box-image img {
+  width: 100%;
+  height: 120px; /* 固定高度，和示例一致 */
+  background: #eee;
+  display: block;
+  border-radius: 3px;
+}
+
+/* 标签（Accepted/CVPR 2016）样式 */
+.paper-box-image .badge {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  background: #0066cc;
+  color: white;
+  font-size: 12px;
+  padding: 3px 8px;
+  border-radius: 3px;
+  font-weight: bold;
+}
+
+/* 论文卡片文本区域：自适应宽度 */
+.paper-box-text {
+  flex: 1;
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+/* 论文标题样式：蓝色+下划线 */
+.paper-box-text a {
+  color: #0066cc;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+/* 作者、期刊样式：灰色 */
+.paper-box-text p, .paper-box-text ul {
+  margin: 5px 0;
+  color: #333;
+}
+
+/* 列表样式：去掉默认符号 */
+.paper-box-text ul {
+  padding-left: 20px;
+}
+</style>
+
+
+<!-- 第二步：添加论文卡片（你的成果） -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">Accepted</div>
+    <img src='images/500x300.png' alt="Impact Fatigue of Steel Cables">
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables](https://xxx.com/your-paper.pdf)
+    
+    **Second Author**, Prof. ZHANG He, Prof. ZHANG Zhicheng, Prof. YU Tao
+    
+    [Journal Link](https://ascelibrary.org/journal/jenmdh)
+    - ASCE Journal of Engineering Mechanics, Accepted
+    - Key focus: Impact fatigue behavior of helical layered steel cables based on damage mechanics
+  </div>
+</div>
+
+
+<!-- 第三步：添加示例卡片（CVPR 2016） -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">CVPR 2016</div>
+    <img src='images/500x300.png' alt="Deep Residual Learning">
+  </div>
+  <div class='paper-box-text' markdown="1">
+    [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+    
+    Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+    
+    [Project](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC)
+    - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+  </div>
+</div>
 
 
 
