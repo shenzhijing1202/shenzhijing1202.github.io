@@ -224,7 +224,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     <p style="margin: 4px 0;">
       <a href="https://doi.org/10.1016/j.engstruct.2024.119583"
          style="color: #0066cc; text-decoration: underline; font-weight: bold;">
-        Paper Link
+        Article Link
       </a>
       &nbsp;
       <strong>Citations: <span style="color: #666;">Loading...</span></strong>
@@ -238,7 +238,65 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </div>
 </div>
 
+<!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
+<div style="
+  display: flex;
+  align-items: flex-start;
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  max-width: 800px;
+  font-family: Arial, sans-serif;
+">
+  <!-- 左侧图片 -->
+  <div style="width: 200px; margin-right: 15px; position: relative;">
+    <div style="
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      background: #28a745;
+      color: white;
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-weight: bold;
+    ">
+      Published
+    </div>
+    <img src="images/TOPSIS_bridge_assessment.png"
+         alt="TOPSIS Bridge Assessment"
+         style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
+  </div>
 
+  <!-- 右侧文字 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
+    <a href="https://doi.org/10.1061/JPCFEV.CFENG-4536"
+       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+      Advanced TOPSIS Approach to Variable Index Weighting in Bridge Condition Assessment
+    </a>
+
+    <p style="margin: 6px 0 4px 0;">
+      Zhang He, Quan Liwei*, <span style="color: #007bff;">Shen Zhijing</span>, Zhang Zhicheng.
+    </p>
+
+    <p style="margin: 4px 0;">
+      <a href="https://doi.org/10.1061/JPCFEV.CFENG-4536"
+         style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+        DOI
+      </a>
+      &nbsp;
+      <strong>Citations: <span style="color: #666;">Loading...</span></strong>
+    </p>
+
+    <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
+      <li>Journal of Performance of Constructed Facilities, 2024, Vol. 38(5), Article 4024042</li>
+      <li>SCI Journal, IF=2.4, JCR: Q2</li>
+      <li>Key focus: TOPSIS methodology for bridge condition assessment with variable index weighting</li>
+    </ul>
+  </div>
+</div>
 
 
 
