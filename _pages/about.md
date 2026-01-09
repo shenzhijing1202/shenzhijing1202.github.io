@@ -265,7 +265,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     ">
       Published
     </div>
-    <img src="images/TOPSIS_bridge_assessment.png"
+    <img src="images/JPCF.png"
          alt="TOPSIS Bridge Assessment"
          style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
   </div>
