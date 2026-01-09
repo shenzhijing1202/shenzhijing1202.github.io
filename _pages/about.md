@@ -143,7 +143,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
       border-radius: 3px;
       font-weight: bold;
     ">
-      Accepted
+      Published
     </div>
     <img src="images/JEM_figure1.png"
          alt="Impact Fatigue of Steel Cables"
@@ -196,7 +196,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
       position: absolute;
       top: 5px;
       left: 5px;
-      background: #28a745;
+      background: #0066cc;
       color: white;
       font-size: 12px;
       padding: 3px 8px;
