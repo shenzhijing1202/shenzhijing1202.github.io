@@ -92,32 +92,28 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </h3>
   
   <!-- 成果表格 -->
-  <table style="width: 100%; border-collapse: collapse; border: 1px solid #e0e0e0;">
-    <thead>
-      <tr style="background-color: #f8f9fa;">
-        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Title</th>
-        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Journal</th>
-        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Status</th>
-        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Author Contribution</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr style="background-color: #ffffff;">
-        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; font-style: italic; color: #34495e;">
-          Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
-        </td>
-        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #34495e;">
-          ASCE Journal of Engineering Mechanics
-        </td>
-        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #27ae60; font-weight: 600;">
-          Online
-        </td>
-        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #34495e;">
-          Lin Tengxin, Shen Zhijing, Zhang Zhicheng, Wang Fei, Zhang He*.
-        </td>
-      </tr>
-    </tbody>
-  </table>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #e0e0e0;">
+  <thead>
+    <tr style="background-color: #f8f9fa;">
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Title</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Journal</th>
+      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Publish Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; font-style: italic; color: #34495e;">
+        Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #34495e;">
+        ASCE Journal of Engineering Mechanics
+      </td>
+      <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #27ae60; font-weight: 600;">
+        2026. Jan
+      </td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
@@ -152,16 +148,17 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
          style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
   </div>
 
-  <!-- 右侧文字 -->
-  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
-    <a href="https://xxx.com/your-paper.pdf"
-       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
-      Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
-    </a>
+<!-- 右侧文字 -->
+<div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
+  <a href="https://example.com/your-paper.pdf"
+     style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+    Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
+  </a>
 
-    <p style="margin: 6px 0 4px 0;">
-      <strong>Second Author</strong>, Prof. ZHANG He, Prof. ZHANG Zhicheng, Prof. YU Tao
-    </p>
+  <p style="margin: 6px 0 4px 0;">
+    Lin Tengxin, <span style="color: #007bff;">Shen Zhijing</span>, Zhang Zhicheng, Wang Fei, Zhang He*.
+  </p>
+</div>
 
     <p style="margin: 4px 0;">
       <a href="[https://ascelibrary.org/journal/jenmdh](https://doi.org/10.1061/JENMDT.EMENG-8735)"
@@ -178,65 +175,6 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     </ul>
   </div>
 </div>
-
-<!-- 再加一个示例卡片（CVPR 风格） -->
-<div style="
-  display: flex;
-  align-items: flex-start;
-  margin: 15px 0;
-  padding: 10px;
-  border: 1px solid #eee;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-  max-width: 800px;
-  font-family: Arial, sans-serif;
-">
-  <div style="width: 200px; margin-right: 15px; position: relative;">
-    <div style="
-      position: absolute;
-      top: 5px;
-      left: 5px;
-      background: #333;
-      color: white;
-      font-size: 12px;
-      padding: 3px 8px;
-      border-radius: 3px;
-      font-weight: bold;
-    ">
-      CVPR 2016
-    </div>
-    <img src="images/500x300.png"
-         alt="Deep Residual Learning"
-         style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
-  </div>
-
-  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
-    <a href="https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf"
-       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
-      Deep Residual Learning for Image Recognition
-    </a>
-
-    <p style="margin: 6px 0 4px 0;">
-      Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-    </p>
-
-    <p style="margin: 4px 0;">
-      <a href="https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC"
-         style="color: #0066cc; text-decoration: underline; font-weight: bold;">
-        Project
-      </a>
-      &nbsp;
-      <strong><span class="show_paper_citations" data="DhtAFkwAAAAJ:ALROH1vI_8AC"></span></strong>
-    </p>
-
-    <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
-      <li>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.</li>
-    </ul>
-  </div>
-</div>
-
-
-
 
 
 
