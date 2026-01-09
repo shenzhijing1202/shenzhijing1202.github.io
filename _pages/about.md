@@ -27,7 +27,8 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 - *Performance evaluation of Bridge cables* & Peridynamic
 - *Damage theory of steel/CFRP wires*
 
-# 📖 Eduacation
+% =======================================================================================================================%
+# 📖 Eduacation 
 <table>
   <thead>
     <tr style="background-color: #f5f5f5;">
@@ -79,8 +80,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 _Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables_, ASCE JOURNAL OF ENGINEERING MECHANICS, Second Author
+- *2026.01*: &nbsp;🎉🎉 _Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables_, ASCE JOURNAL OF ENGINEERING MECHANICS, Second Author
 
 
 # 📝 Publications 
@@ -110,10 +110,10 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
           ASCE Journal of Engineering Mechanics
         </td>
         <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #27ae60; font-weight: 600;">
-          Accepted
+          Online
         </td>
         <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #34495e;">
-          Second Author
+          Lin Tengxin, Shen Zhijing, Zhang Zhicheng, Wang Fei, Zhang He*.
         </td>
       </tr>
     </tbody>
@@ -164,7 +164,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     </p>
 
     <p style="margin: 4px 0;">
-      <a href="https://ascelibrary.org/journal/jenmdh"
+      <a href="[https://ascelibrary.org/journal/jenmdh](https://doi.org/10.1061/JENMDT.EMENG-8735)"
          style="color: #0066cc; text-decoration: underline; font-weight: bold;">
         Journal Link
       </a>
