@@ -85,6 +85,39 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 
 # 📝 Publications 
 
+<div style="width: 100%; max-width: 800px; margin: 20px 0; font-family: Arial, sans-serif; overflow-x: auto;">
+  <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 8px; margin-bottom: 15px;">
+    Academic Publications
+  </h3>
+  
+  <table style="width: 100%; border-collapse: collapse; border: 1px solid #e0e0e0; min-width: 600px;">
+    <thead>
+      <tr style="background-color: #f8f9fa;">
+        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600; width: 40%;">Title</th>
+        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600; width: 25%;">Authors</th>
+        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600; width: 25%;">Journal</th>
+        <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600; width: 10%;">Status</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background-color: #ffffff;">
+        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; font-style: italic; color: #34495e;">
+          Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
+        </td>
+        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #34495e;">
+          Zhang He*, Wang Fei, Liu Ming
+        </td>
+        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #34495e;">
+          ASCE Journal of Engineering Mechanics
+        </td>
+        <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #27ae60; font-weight: 600;">
+          2024
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
   display: flex;
@@ -131,7 +164,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     <p style="margin: 4px 0;">
       <a href="https://doi.org/10.1061/JENMDT.EMENG-8735"
          style="color: #0066cc; text-decoration: underline; font-weight: bold;">
-        Journal Link
+        Article Link
       </a>
       &nbsp;
       <strong>Citations: <span style="color: #666;">Loading...</span></strong>
@@ -145,7 +178,65 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 </div>>
 
 
+<!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
+<div style="
+  display: flex;
+  align-items: flex-start;
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  max-width: 800px;
+  font-family: Arial, sans-serif;
+">
+  <!-- 左侧图片 -->
+  <div style="width: 200px; margin-right: 15px; position: relative;">
+    <div style="
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      background: #28a745;
+      color: white;
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-weight: bold;
+    ">
+      Published
+    </div>
+    <img src="images/ES_figure.png"
+         alt="DSF-Net Instance Segmentation"
+         style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
+  </div>
 
+  <!-- 右侧文字 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
+    <a href="https://doi.org/10.1016/j.engstruct.2024.119583"
+       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+      A DSF-Net-Based Approach to Dual-Branch Instance Segmentation of Weak Bridge Defects
+    </a>
+
+    <p style="margin: 6px 0 4px 0;">
+      Zhang He, Shen Ruihong, Lei Jiawei, <span style="color: #007bff;">Shen Zhijing</span>, Zhang Zhicheng, Zhou Yuhui.
+    </p>
+
+    <p style="margin: 4px 0;">
+      <a href="https://doi.org/10.1016/j.engstruct.2024.119583"
+         style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+        Paper Link
+      </a>
+      &nbsp;
+      <strong>Citations: <span style="color: #666;">Loading...</span></strong>
+    </p>
+
+    <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
+      <li>Engineering Structures, 2024, Vol. 327, Article 119583</li>
+      <li>SCI Journal, IF=5.6, JCR: Q1</li>
+      <li>Key focus: Dual-branch instance segmentation for weak bridge defect detection using deep learning</li>
+    </ul>
+  </div>
+</div>
 
 
 
