@@ -85,37 +85,6 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 
 # 📝 Publications 
 
-<!-- 学术成果板块容器 -->
-<div style="width: 100%; max-width: 800px; margin: 20px 0; font-family: Arial, sans-serif;">
-  <h3 style="color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 8px; margin-bottom: 15px;">
-    Academic Publications
-  </h3>
-  
-  <!-- 成果表格 -->
-<table style="width: 100%; border-collapse: collapse; border: 1px solid #e0e0e0;">
-  <thead>
-    <tr style="background-color: #f8f9fa;">
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Title</th>
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Journal</th>
-      <th style="padding: 12px; text-align: left; border-bottom: 2px solid #3498db; color: #2c3e50; font-weight: 600;">Publish Time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr style="background-color: #ffffff;">
-      <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; font-style: italic; color: #34495e;">
-        Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #34495e;">
-        ASCE Journal of Engineering Mechanics
-      </td>
-      <td style="padding: 10px; border-bottom: 1px solid #e0e0e0; color: #27ae60; font-weight: 600;">
-        2026. Jan
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
   display: flex;
@@ -148,25 +117,24 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
          style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
   </div>
 
-<!-- 右侧文字 -->
-<div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
-  <a href="https://example.com/your-paper.pdf"
-     style="color: #0066cc; text-decoration: underline; font-weight: bold;">
-    Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
-  </a>
+  <!-- 右侧文字 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
+    <a href="https://example.com/your-paper.pdf"
+       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+      Damage Mechanics-Based Numerical Analysis of the Impact Fatigue Behavior of Helical Layered Steel Cables
+    </a>
 
-  <p style="margin: 6px 0 4px 0;">
-    Lin Tengxin, <span style="color: #007bff;">Shen Zhijing</span>, Zhang Zhicheng, Wang Fei, Zhang He*.
-  </p>
-</div>
+    <p style="margin: 6px 0 4px 0;">
+      Lin Tengxin, <span style="color: #007bff;">Shen Zhijing</span>, Zhang Zhicheng, Wang Fei, Zhang He*.
+    </p>
 
     <p style="margin: 4px 0;">
-      <a href="[https://ascelibrary.org/journal/jenmdh](https://doi.org/10.1061/JENMDT.EMENG-8735)"
+      <a href="https://doi.org/10.1061/JENMDT.EMENG-8735"
          style="color: #0066cc; text-decoration: underline; font-weight: bold;">
         Journal Link
       </a>
       &nbsp;
-      <strong><span class="show_paper_citations" data="xxx"></span></strong>
+      <strong>Citations: <span style="color: #666;">Loading...</span></strong>
     </p>
 
     <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
@@ -174,7 +142,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
       <li>Key focus: Impact fatigue behavior of helical layered steel cables based on damage mechanics</li>
     </ul>
   </div>
-</div>
+</div>>
 
 
 
@@ -182,7 +150,8 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016S</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
