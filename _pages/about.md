@@ -322,7 +322,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
       border-radius: 3px;
       font-weight: bold;
     ">
-      Online First
+      Published
     </div>
     <img src="images/SFRC_bond_experiment.png"
          alt="SFRC Bond Experiment"
@@ -352,6 +352,124 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
       <li>Case Studies in Construction Materials, 2024: e03742 (SCI Q1, IF=6.5)</li>
       <li>Key focus: Bond behavior between reinforcement and SFRC under various parameters</li>
+    </ul>
+  </div>
+</div>
+
+<!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
+<div style="
+  display: flex;
+  align-items: flex-start;
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  max-width: 800px;
+  font-family: Arial, sans-serif;
+">
+  <!-- 左侧图片 -->
+  <div style="width: 200px; margin-right: 15px; position: relative;">
+    <div style="
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      background: #0066cc;
+      color: white;
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-weight: bold;
+    ">
+      Published
+    </div>
+    <img src="images/measurement_fusion.png"
+         alt="Computer Vision Piezoelectric Fusion"
+         style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
+    <a href="https://doi.org/10.1016/j.measurement.2024.115616"
+       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+      Fusion of computer vision and piezoelectric tactility approach to measuring moving vehicle loads
+    </a>
+
+    <p style="margin: 6px 0 4px 0;">
+      Zhang He, Zhu Juntao, Xie Wanqi, Huang Kangxu, Wu Mindong, Lu Chaofeng, <span style="color: #007bff;">Shen Zhijing</span>*.
+    </p>
+
+    <p style="margin: 4px 0;">
+      <a href="https://doi.org/10.1016/j.measurement.2024.115616"
+         style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+        Article Link
+      </a>
+      &nbsp;
+      <strong>Citations: <span style="color: #666;">Loading...</span></strong>
+    </p>
+
+    <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
+      <li>Measurement, 2024, Vol. 233, Article 115616 (SCI Q1, IF=5.2)</li>
+      <li>Key focus: Fusion approach combining computer vision and piezoelectric tactility for vehicle load measurement</li>
+    </ul>
+  </div>
+</div>
+
+<!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
+<div style="
+  display: flex;
+  align-items: flex-start;
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  max-width: 800px;
+  font-family: Arial, sans-serif;
+">
+  <!-- 左侧图片 -->
+  <div style="width: 200px; margin-right: 15px; position: relative;">
+    <div style="
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      background: #0066cc;
+      color: white;
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-weight: bold;
+    ">
+      Published
+    </div>
+    <img src="images/MSSP_WIM.png"
+         alt="Non-contact Weigh-in-motion"
+         style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
+    <a href="https://doi.org/10.1016/j.ymssp.2024.111323"
+       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+      Non-contact Weigh-in-motion Approach with an Improved Multi-Region of Interest Method
+    </a>
+
+    <p style="margin: 6px 0 4px 0;">
+      <span style="color: #007bff;">Zhang He</span>*, Zhu Juntao, Zhou Yuhui, Shen Zhijing.
+    </p>
+
+    <p style="margin: 4px 0;">
+      <a href="https://doi.org/10.1016/j.ymssp.2024.111323"
+         style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+        Article Link
+      </a>
+      &nbsp;
+      <strong>Citations: <span style="color: #666;">Loading...</span></strong>
+    </p>
+
+    <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
+      <li>Mechanical Systems and Signal Processing, 2024, Vol. 212, Article 111323 (SCI Q1, IF=8.4)</li>
+      <li>Key focus: Non-contact weigh-in-motion system using improved multi-region of interest method</li>
     </ul>
   </div>
 </div>
