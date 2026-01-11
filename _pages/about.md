@@ -118,7 +118,6 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </table>
 </div>
 
-
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
   display: flex;
@@ -176,8 +175,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
       <li>Key focus: Impact fatigue behavior of helical layered steel cables based on damage mechanics</li>
     </ul>
   </div>
-</div>>
-
+</div>
 
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
@@ -239,7 +237,6 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </div>
 </div>
 
-
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
   display: flex;
@@ -258,7 +255,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
       position: absolute;
       top: 5px;
       left: 5px;
-      background: #28a745;
+      background: #0066cc;
       color: white;
       font-size: 12px;
       padding: 3px 8px;
@@ -300,7 +297,6 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </div>
 </div>
 
-
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
   display: flex;
@@ -319,7 +315,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
       position: absolute;
       top: 5px;
       left: 5px;
-      background: #ffc107;
+      background: #0066cc;
       color: #212529;
       font-size: 12px;
       padding: 3px 8px;
