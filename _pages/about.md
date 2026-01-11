@@ -118,6 +118,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </table>
 </div>
 
+
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
   display: flex;
@@ -171,7 +172,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     </p>
 
     <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
-      <li>ASCE Journal of Engineering Mechanics, Accepted</li>
+      <li>ASCE Journal of Engineering Mechanics, 2025.12.30, 152(3): 04025105</li>
       <li>Key focus: Impact fatigue behavior of helical layered steel cables based on damage mechanics</li>
     </ul>
   </div>
@@ -238,6 +239,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
   </div>
 </div>
 
+
 <!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
 <div style="
   display: flex;
@@ -284,7 +286,7 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
     <p style="margin: 4px 0;">
       <a href="https://doi.org/10.1061/JPCFEV.CFENG-4536"
          style="color: #0066cc; text-decoration: underline; font-weight: bold;">
-        DOI
+        Article Link
       </a>
       &nbsp;
       <strong>Citations: <span style="color: #666;">Loading...</span></strong>
@@ -299,6 +301,64 @@ I am currently a PhD in [Zhejiang University](https://www.zju.edu.cn/) majoring 
 </div>
 
 
+<!-- 单篇论文卡片（行内样式版本，兼容 GitHub） -->
+<div style="
+  display: flex;
+  align-items: flex-start;
+  margin: 15px 0;
+  padding: 10px;
+  border: 1px solid #eee;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  max-width: 800px;
+  font-family: Arial, sans-serif;
+">
+  <!-- 左侧图片 -->
+  <div style="width: 200px; margin-right: 15px; position: relative;">
+    <div style="
+      position: absolute;
+      top: 5px;
+      left: 5px;
+      background: #ffc107;
+      color: #212529;
+      font-size: 12px;
+      padding: 3px 8px;
+      border-radius: 3px;
+      font-weight: bold;
+    ">
+      Online First
+    </div>
+    <img src="images/SFRC_bond_experiment.png"
+         alt="SFRC Bond Experiment"
+         style="width: 100%; height: 120px; background: #eee; display: block; border-radius: 3px;">
+  </div>
+
+  <!-- 右侧文字 -->
+  <div style="flex: 1; font-size: 14px; line-height: 1.6; color: #333;">
+    <a href="https://doi.org/10.1016/j.cscm.2024.e03742"
+       style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+      Experimental investigation on influence of embedment length, bar diameter and concrete cover on bond between reinforced bars and steel fiber reinforced concrete (SFRC)
+    </a>
+
+    <p style="margin: 6px 0 4px 0;">
+      Zhang He, Li Huiyan, Lin Tengxin, <span style="color: #007bff;">Shen Zhijing</span>, Feng Qian*.
+    </p>
+
+    <p style="margin: 4px 0;">
+      <a href="https://doi.org/10.1016/j.cscm.2024.e03742"
+         style="color: #0066cc; text-decoration: underline; font-weight: bold;">
+        Article Link
+      </a>
+      &nbsp;
+      <strong>Citations: <span style="color: #666;">Loading...</span></strong>
+    </p>
+
+    <ul style="margin: 5px 0; padding-left: 20px; color: #333;">
+      <li>Case Studies in Construction Materials, 2024: e03742 (SCI Q1, IF=6.5)</li>
+      <li>Key focus: Bond behavior between reinforcement and SFRC under various parameters</li>
+    </ul>
+  </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016S</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
